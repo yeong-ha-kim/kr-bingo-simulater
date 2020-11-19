@@ -16,9 +16,9 @@ expend               1회당 소모되는 건전지 개수 입니다<br>
 
 
 사옹한 외부 라이브러리 설치
-pip install numpy
-pip install matplotlib
-pip install Color
+pip install numpy<br>
+pip install matplotlib<br>
+pip install Color<br>
 
 
 
