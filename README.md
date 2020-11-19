@@ -11,8 +11,23 @@ activation 에 현제 환성화된 빙고 칸 수를 입력하고 실행하면
 <table>
    <tr>
      <td>
-       maximum
+       변수명
      </td>
+      
+      <td>
+       설명
+     </td>
+    </tr>
+    
+    <tr>
+      <td>
+         maximum
+      </td>
+      
+      <td>
+        전체 빙고칸 수를 의미합니다
+      </td>
+     </tr>
 </table>
 
 
