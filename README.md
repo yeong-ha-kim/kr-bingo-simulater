@@ -8,28 +8,6 @@ activation 에 현제 환성화된 빙고 칸 수를 입력하고 실행하면
 
 확률적 계산이기 때문에 실제 횟수와는 차이가 있을 수 있습니다.
 
-<table>
-   <tr>
-     <td>
-       변수명
-     </td>
-      
-      <td>
-       설명
-     </td>
-    </tr>
-    
-    <tr>
-      <td>
-         maximum
-      </td>
-      
-      <td>
-        전체 빙고칸 수를 의미합니다
-      </td>
-     </tr>
-</table>
-
 
 maximum              전체 빙고칸 수를 의미합니다.<br>
 activation            현제 활성화된 빙고칸 수 입니다,<br>
