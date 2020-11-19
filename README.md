@@ -1,4 +1,4 @@
-# kr-bingo-simulater
+# kart rider rush+ bingo-simulater
 KartRider Ruus+ Bingo Simulater
 
 카트라이더 러쉬 플러스 빙고 시뮬레이터 입니다.
