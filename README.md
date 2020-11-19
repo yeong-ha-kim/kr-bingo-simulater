@@ -18,7 +18,7 @@ expend               1회당 소모되는 건전지 개수 입니다<br>
 프로그램을 사용하기 위해서 다음의 외부 라이브러리 설치가 필요합니다.<br>
 pip install numpy<br>
 pip install matplotlib<br>
-pip install Color<br>
+pip install colour<br>
 <br>
 <br>
 <br>
