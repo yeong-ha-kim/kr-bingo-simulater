@@ -14,4 +14,12 @@ activation           현제 활성화된 빙고칸 수 입니다,<br>
 try_count          빙고 시뮬레이션 횟수 입니다. 전체 25칸 중 n 칸이 활성화 되어있을 때 try_count 만큼의 유저가 빙고를 돌렸을때 얼마나 나오는지를 계산합니다.<br>
 expend               1회당 소모되는 건전지 개수 입니다<br>
 
-무단배포를 금지합니다. 공유할때에는 출처를 남겨주세요
+
+사옹한 외부 라이브러리 설치
+pip install numpy
+pip install matplotlib
+pip install Color
+
+
+
+[무단배포를 금지합니다. 공유할때에는 출처를 남겨주세요]
